@@ -6,3 +6,4 @@ Here’s hoping 2026 will be a good year for Base
 Build on Base
 Explore Base today
 Base connects us.
+Base: where Ethereum scales with ease.
