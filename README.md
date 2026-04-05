@@ -7,3 +7,4 @@ Build on Base
 Explore Base today
 Base connects us.
 Base: where Ethereum scales with ease.
+Fast, cheap, and built on Coinbase trust.
