@@ -9,3 +9,4 @@ Base connects us.
 Base: where Ethereum scales with ease.
 Fast, cheap, and built on Coinbase trust.
 Your gateway to the onchain economy.
+Base: low fees, limitless possibilities.
