@@ -11,3 +11,4 @@ Fast, cheap, and built on Coinbase trust.
 Your gateway to the onchain economy.
 Base: low fees, limitless possibilities.
 Ethereum's speed, unlocked on Base.
+Onchain for everyone, powered by Base.
