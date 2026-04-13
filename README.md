@@ -13,3 +13,4 @@ Base: low fees, limitless possibilities.
 Ethereum's speed, unlocked on Base.
 Onchain for everyone, powered by Base.
 Hi,Base
+Base: bridging Web2 to Web3 seamlessly.
