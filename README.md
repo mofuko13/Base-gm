@@ -16,3 +16,4 @@ Hi,Base
 Base: bridging Web2 to Web3 seamlessly.
 Base of operations 
 GM Base
+Base of operations
