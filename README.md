@@ -21,3 +21,4 @@ Battle-tested
 Highly scalable
 Gas-efficient 
 Hi.Base
+Composable
