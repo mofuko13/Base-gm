@@ -23,3 +23,4 @@ Gas-efficient
 Hi.Base
 Composable
 Composable — 組み合わせ自由
+Developer-friendly
