@@ -24,3 +24,7 @@ Hi.Base
 Composable
 Composable — 組み合わせ自由
 Developer-friendly
+- Trade on Base
+- Build on Base
+- Pay on Base
+- Be on Base
