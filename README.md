@@ -29,3 +29,4 @@ Developer-friendly
 - Pay on Base
 - Be on Base
 Base Azule
+x402
