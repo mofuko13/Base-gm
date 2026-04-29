@@ -31,3 +31,4 @@ Developer-friendly
 Base Azule
 x402
 Base app
+Blue Base
