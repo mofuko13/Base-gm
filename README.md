@@ -32,3 +32,4 @@ Base Azule
 x402
 Base app
 Blue Base
+Hi Base
