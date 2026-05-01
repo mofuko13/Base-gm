@@ -33,3 +33,4 @@ x402
 Base app
 Blue Base
 Hi Base
+Developer-friendly
