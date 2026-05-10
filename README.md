@@ -42,3 +42,4 @@ Hello Base
 Base blue is beautiful.
 "Building on Base."
 Based and onchain
+The future is onchain — and it starts on Base
