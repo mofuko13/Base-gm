@@ -43,3 +43,4 @@ Base blue is beautiful.
 "Building on Base."
 Based and onchain
 The future is onchain — and it starts on Base
+Bringing the world onchain, one transaction at a time.
