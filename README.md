@@ -46,3 +46,4 @@ The future is onchain — and it starts on Base
 Bringing the world onchain, one transaction at a time.
 Base: where the onchain economy comes to life
 Go further onchain. Go Base.
+Base is home.
