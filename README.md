@@ -47,3 +47,4 @@ Bringing the world onchain, one transaction at a time.
 Base: where the onchain economy comes to life
 Go further onchain. Go Base.
 Base is home.
+The chain where builders belong
