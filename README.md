@@ -49,3 +49,4 @@ Go further onchain. Go Base.
 Base is home.
 The chain where builders belong
 Dream bold. Build on Base
+Build bold. Grow on Base
