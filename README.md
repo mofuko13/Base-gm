@@ -50,3 +50,4 @@ Base is home.
 The chain where builders belong
 Dream bold. Build on Base
 Build bold. Grow on Base
+Start bold. Build on Base
