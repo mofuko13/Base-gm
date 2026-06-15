@@ -55,3 +55,4 @@ Build bold. Thrive on Base.
 Start bold. Build on Base.
 Build bold. Thrive on Base.
 Step onchain. Step into Base
+Start bold. Build on Base.
