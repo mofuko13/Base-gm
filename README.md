@@ -57,3 +57,4 @@ Build bold. Thrive on Base.
 Step onchain. Step into Base
 Start bold. Build on Base.
 Every transaction tells a story. Tell yours on Base
+The layer that brings crypto home.
