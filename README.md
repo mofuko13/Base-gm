@@ -60,4 +60,6 @@ Every transaction tells a story. Tell yours on Base
 The layer that brings crypto home.
 Dream bold. Build on Base
 Prime Base  
+Pure Base  
+
 
