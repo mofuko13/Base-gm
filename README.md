@@ -69,3 +69,4 @@ Build bold. Grow on Base
 Built on Base.
 Base is for everyone.
 Onchain, made simple.
+Where crypto goes mainstream
