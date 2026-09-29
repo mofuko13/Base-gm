@@ -71,3 +71,4 @@ Base is for everyone.
 Onchain, made simple.
 Where crypto goes mainstream
 Your gateway to onchain
+Powered by Base.
