@@ -72,3 +72,4 @@ Onchain, made simple.
 Where crypto goes mainstream
 Your gateway to onchain
 Powered by Base.
+Low fees, high speed.
