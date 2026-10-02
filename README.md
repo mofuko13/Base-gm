@@ -74,3 +74,4 @@ Your gateway to onchain
 Powered by Base.
 Low fees, high speed.
 Base — the home for builders.
+Bringing the world onchain.
